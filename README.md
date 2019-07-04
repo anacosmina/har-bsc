@@ -1,6 +1,5 @@
 # har-bsc
-Sources accompanying my Bachelor Thesis experiments and demo
-
+Documentation, experiments and source files accompanying my Bachelor Thesis project.
 
 ### Additional materials:
 - Powerpoint presentation: http://bit.do/har-slides
