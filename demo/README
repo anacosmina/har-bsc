@@ -1,0 +1,14 @@
+1) To be able to use AutoML Vision API, one has to follow the steps here:
+   https://cloud.google.com/vision/automl/docs/tutorial.
+
+2) For viewing camera streams on Linux:
+   sudo apt-get install guvcview
+
+3) To record camera streams on Linux:
+   sudo apt-get install streamer
+
+4) Python libraries that need to be installed: cv2, matplotlib.
+
+Run ./run.sh to test the MHI-based system with live recordings.
+Run python3 full_system.py $video_name to test the system on pre-recorded 
+videos.
